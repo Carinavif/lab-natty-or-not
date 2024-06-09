@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto Blog da Maddie ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto em questão retrata o blog de uma adolescente de 17 anos que conta seu dia a dia no intercâmbio que está realizando na califórnia. Contando um pouco do seu dia adicionando vídeos e fotos dos seus eventos cotidianos. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Chat GPT (Criação do texto e da personagem)
+- Wix (criação do site, blog)
+- Runway (criação do vídeo)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramente foi criado um persona no chat gpt, e também um texto como uma postagem em um blog sobre o cotidiano dessa adolescente, então em cima desses dados foi criado um vídeo no runway que expressasse um pouco sobre o dia então descrito dessa adolescente, e com esse material usei a inteligência artificial da Wix para ajudar a criar o template de um blog que fosse atraente para adolescentes. Que fosse organizado, simples e com cores leves.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://carinavif.wixsite.com/blog-da-maddie/post/aventura-na-calif%C3%B3rnia-meu-dia-em-san-francisco
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Ainda há muitas questões a serem discutidas sobre criações com IA, no caso desse projeto, houve a dificuldade em conseguir criar um vídeo que de fato expressasse o que ela viveu no dia dela, o vídeo acabou ficando curto e artificial. 
